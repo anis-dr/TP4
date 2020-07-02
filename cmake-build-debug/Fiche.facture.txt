@@ -1,0 +1,2 @@
+NumL 		 Code 		 Label 		 Stock 		 PHT 		 TTC 
+1 		 226 		 1645 		 1654 		 56.00 		 814.24 
